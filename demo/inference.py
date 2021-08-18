@@ -23,7 +23,7 @@ import sys
 sys.path.append("../lib")
 import time
 
-# import _init_paths
+import _init_paths
 import models
 from config import cfg
 from config import update_config
